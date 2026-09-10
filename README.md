@@ -1,4 +1,4 @@
-**SSOO - Práctica 1**
+#SSOO - Práctica 1
 
 **Descripción del Proyecto**
 Este repositorio contiene la primera práctica de la asignatura de Sistemas Operativos (SSOO). El objetivo principal es la implementación en C de [AÑADIR: breve descripción, ej. un intérprete de comandos básico, gestión de procesos, o simulación de llamadas al sistema], asegurando un manejo eficiente de los recursos y la memoria.
@@ -34,4 +34,4 @@ Una vez compilado correctamente, ejecuta el programa desde la terminal indicando
 
 **Autores**
 * Víctor Omar Llantoy Núñez del Arco
-* [AÑADIR: Adam El Kassmi Serroukh / Santiago Sánchez-Merino Pérez si es un proyecto grupal]
+* Adam El Kassmi Serroukh 
